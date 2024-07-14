@@ -23,6 +23,9 @@ Here are some general guidelines:
 
 ![App Screenshot](screenshots/code.png)
 
-![App Screenshot]()
+![App Screenshot](screenshots/home.png)
 
-![App Screenshot]()
+![App Screenshot](screenshots/add.png)
+
+![App Screenshot](screenshots/mul.png)
+
